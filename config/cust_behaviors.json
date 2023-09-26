@@ -1,0 +1,10 @@
+[
+	{
+		"code": "&sys_reset",
+		"name": "&sys_reset",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
